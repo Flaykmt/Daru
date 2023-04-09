@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: SF Pro;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #11161E;
+  width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.container{
+  max-width: 1141px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.none{
+  display: none;
+}

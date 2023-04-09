@@ -1,0 +1,5 @@
+import '../scss/style.scss'
+import '../scss/normalize.scss'
+import '../scss/components.scss'
+import '../scss/variable.scss'
+import '../scss/media.scss'
